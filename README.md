@@ -6,6 +6,8 @@ Home Credit Default Risk
 Enlace de la competición en kaggle
 https://www.kaggle.com/c/home-credit-default-risk/overview
 
+Enlace de video entrega 2
+https://youtu.be/KerXAFQjoUE
 
 JOSE CARLOS ORTIZ PADILLA
 1003059949
@@ -15,6 +17,3 @@ ALEXANDER VALENCIA DELGADO
 71372112
 Ingeniería de sistemas
 
-JORGE ERNESTO VILLAMIZAR CABEZA
-091487510
-Ingeniería Industrial
